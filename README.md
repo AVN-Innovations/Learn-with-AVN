@@ -1,6 +1,6 @@
-# Learn with AVN
+# *Learn with AVN*
 
-by AVN Innovations — because learning tech doesn’t have to be scary.
+by *AVN Innovations* — because learning tech doesn’t have to be scary.
 
 Hey there 👋 I’m Amritha (aka AVN Bluefox) — and welcome to Learn with AVN, a cozy little corner of the internet made for you.
 If you’ve ever opened a coding tutorial and thought “what language are they even speaking?”, you’re in the right place.
@@ -17,13 +17,10 @@ I started this because when I was learning AI and cybersecurity, I wished there 
 
 So here’s the plan:
 
-We’ll break down tech topics in the simplest way possible.
-
-We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.
-
-We’ll focus on understanding, not memorizing.
-
-Basically — if tech feels like a big storm of code and jargon, this repo is your umbrella. ☂️
+We’ll break down tech topics in the simplest way possible.  
+We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.  
+We’ll focus on understanding, not memorizing.  
+Basically — if tech feels like a big storm of code and jargon, this repo is your umbrella.  
 
 ---
 
@@ -47,6 +44,38 @@ Open anything, read a bit, and try it out — and if you get stuck, don’t pani
 
 ---
 
+### 🚀 How to Learn with Me
+
+Don’t rush — pick one topic you really want to understand.  
+Read it like a chat, not a textbook.  
+Try out examples. Break them. Fix them. That’s how you really learn.  
+Share your progress — tag #LearnWithAVN if you’re on social media.  
+Keep it light and fun — because learning should feel exciting, not exhausting.  
+
+---
+
+### 💬 Want to Contribute?
+
+You don’t need to be an expert to help!
+You can:
+
+Add your own beginner-friendly explanations.   
+Suggest edits or corrections.  
+Translate content.   
+Share useful resources or project ideas.  
+This is our space to grow — together. 💜 
+
+---
+
+### 🦊 About Me
+
+Hi! I’m Amritha V Nair, but most people online know me as AVN Bluefox — founder of AVN Innovations, AI + Cybersecurity enthusiast, and a believer that learning tech should be human, creative, and empowering.
+
+I’m building Learn with AVN so that no beginner ever feels “not smart enough” to start.
+Because the truth? You absolutely are. You just need the right guide — and maybe a few fox tricks 🦊
+
+---
+
 ## ✨ A Small Note from Me
 
 This is an initiative by me — an undergraduate student, sharing what I’ve learned so far.
@@ -63,47 +92,15 @@ If you want a more specialized explanation, feel free to:
 
 ---
 
-### 🚀 How to Learn with Me
-
-Don’t rush — pick one topic you really want to understand.
-Read it like a chat, not a textbook.
-Try out examples. Break them. Fix them. That’s how you really learn.
-Share your progress — tag #LearnWithAVN if you’re on social media.
-Keep it light and fun — because learning should feel exciting, not exhausting.
-
----
-
-### 💬 Want to Contribute?
-
-You don’t need to be an expert to help!
-You can:
-Add your own beginner-friendly explanations
-Suggest edits or corrections
-Translate content
-Share useful resources or project ideas
-
-This is our space to grow — together 💜
-
----
-
-### 🦊 About Me
-
-Hi! I’m Amritha V Nair, but most people online know me as AVN Bluefox — founder of AVN Innovations, AI + Cybersecurity enthusiast, and a believer that learning tech should be human, creative, and empowering.
-
-I’m building Learn with AVN so that no beginner ever feels “not smart enough” to start.
-Because the truth? You absolutely are. You just need the right guide — and maybe a few fox tricks 🦊
-
----
-
 ### 🌐 Connect with Me
 💼 For Collaborations or Company Projects
 
-Instagram: @avn_innovations_
-Email: contact.avninnovations@gmail.com
-
+Instagram: @avn_innovations_  
+Email: contact.avninnovations@gmail.com<br><br>
+  
 💙 For Personal or Student Connections
 
-Instagram: @avn_bluefox
+Instagram: @avn_bluefox  
 Email: avn.bluefox@gmail.com
 
 ---
