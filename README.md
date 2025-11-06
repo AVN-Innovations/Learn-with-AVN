@@ -77,11 +77,10 @@ Keep it light and fun — because learning should feel exciting, not exhausting.
 
 You don’t need to be an expert to help!
 You can:
-
-> Add your own beginner-friendly explanations
-> Suggest edits or corrections
-> Translate content
-> Share useful resources or project ideas
+Add your own beginner-friendly explanations
+Suggest edits or corrections
+Translate content
+Share useful resources or project ideas
 
 This is our space to grow — together 💜
 
