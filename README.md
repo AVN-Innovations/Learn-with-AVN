@@ -17,9 +17,11 @@ I started this because when I was learning AI and cybersecurity, I wished there 
 
 So here’s the plan:
 
-> We’ll break down tech topics in the simplest way possible.
-> We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.
-> We’ll focus on understanding, not memorizing.
+We’ll break down tech topics in the simplest way possible.
+
+We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.
+
+We’ll focus on understanding, not memorizing.
 
 Basically — if tech feels like a big storm of code and jargon, this repo is your umbrella. ☂️
 
