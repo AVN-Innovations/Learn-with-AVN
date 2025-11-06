@@ -8,6 +8,7 @@ If you’ve ever opened a coding tutorial and thought “what language are they 
 This is where we take the “complicated stuff” — AI, cybersecurity, and computer science — and explain it like your best friend would.
 No fancy words. No confusion. Just fun, clarity, and real-world skills.
 
+---
 
 ### 💭 What Learn with AVN Is All About
 
@@ -16,11 +17,13 @@ I started this because when I was learning AI and cybersecurity, I wished there 
 
 So here’s the plan:
 
->We’ll break down tech topics in the simplest way possible.
->We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.
->We’ll focus on understanding, not memorizing.
+> We’ll break down tech topics in the simplest way possible.
+> We’ll explore AI, cybersecurity, and hands-on projects that actually make sense.
+> We’ll focus on understanding, not memorizing.
 
 Basically — if tech feels like a big storm of code and jargon, this repo is your umbrella. ☂️
+
+---
 
 ### 🧩 What You’ll Find Here
 
@@ -38,8 +41,9 @@ You’ll find folders like:
 /Study_Tips  
 /Beginner_Blogs
 
-
 Open anything, read a bit, and try it out — and if you get stuck, don’t panic. Everyone does. 💪
+
+---
 
 ## ✨ A Small Note from Me
 
@@ -55,6 +59,8 @@ If you want a more specialized explanation, feel free to:
 📩 Message me on Instagram or
 🔎 Search it directly on Google — keep your curiosity alive! 🌍
 
+---
+
 ### 🚀 How to Learn with Me
 
 Don’t rush — pick one topic you really want to understand.
@@ -63,17 +69,21 @@ Try out examples. Break them. Fix them. That’s how you really learn.
 Share your progress — tag #LearnWithAVN if you’re on social media.
 Keep it light and fun — because learning should feel exciting, not exhausting.
 
+---
+
 ### 💬 Want to Contribute?
 
 You don’t need to be an expert to help!
 You can:
 
->Add your own beginner-friendly explanations
->Suggest edits or corrections
->Translate content
->Share useful resources or project ideas
+> Add your own beginner-friendly explanations
+> Suggest edits or corrections
+> Translate content
+> Share useful resources or project ideas
 
 This is our space to grow — together 💜
+
+---
 
 ### 🦊 About Me
 
@@ -81,6 +91,8 @@ Hi! I’m Amritha V Nair, but most people online know me as AVN Bluefox — foun
 
 I’m building Learn with AVN so that no beginner ever feels “not smart enough” to start.
 Because the truth? You absolutely are. You just need the right guide — and maybe a few fox tricks 🦊
+
+---
 
 ### 🌐 Connect with Me
 💼 For Collaborations or Company Projects
@@ -92,6 +104,8 @@ Email: contact.avninnovations@gmail.com
 
 Instagram: @avn_bluefox
 Email: avn.bluefox@gmail.com
+
+---
 
 ## ⭐ Support the Journey
 
